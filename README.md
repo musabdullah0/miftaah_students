@@ -1,11 +1,12 @@
 # Miftaah Transcripts Exploration
 
-
+## Manual Transcripts Google Sheets
 shape = (5304, 10)
+1312 unique student names
+938 students have '#N/A' for NEO_ID (2756 rows)
 
-**NEO_ID column**
-#N/A count = 2756
 
-**Student column**
-1312 unique rows
-#N/A count = 0
+## NEO LMS API
+GET /api/v2/students?$limit=10000
+1296 students
+

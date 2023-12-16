@@ -1,12 +1,11 @@
-[
-    {
-        "neo_id": 11262456,
+{
+    "11262456": {
         "name": "Admin Miftaah",
         "email": "admin@miftaah.org",
-        "program": "Roster",
-        "grade": 0.0,
-        "start_date": "2023-02-24T10:21:34.000Z",
-        "expected_graduation": "2023-12-17",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "February 2023",
+        "expected_graduation": "February 2027",
         "periods": [
             {
                 "name": "Miftaah Online: Fall Semester",
@@ -70,14 +69,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11352535,
+    "11352535": {
         "name": "Sondos Suleiman",
         "email": "sondossuleiman02@gmail.com",
-        "program": "Direct",
-        "grade": 0.0,
-        "start_date": "2023-05-04T13:49:16.000Z",
-        "expected_graduation": "2023-12-12",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Arabic 101",
@@ -366,14 +364,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362800,
+    "11362800": {
         "name": "Neda Awwad",
         "email": "a.neda05@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -392,14 +389,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362801,
+    "11362801": {
         "name": "Aaron Weyburn",
         "email": "aaron.weyburn@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -448,14 +444,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362802,
+    "11362802": {
         "name": "Faiza Ahmed",
         "email": "ahmedizash@icloud.com",
-        "program": "File",
-        "grade": 32.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -474,14 +469,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362803,
+    "11362803": {
         "name": "Aldina Milak",
         "email": "aldinamilak@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -515,14 +509,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362804,
+    "11362804": {
         "name": "Amira Mustafa",
         "email": "amirakhawaja1@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -556,14 +549,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362805,
+    "11362805": {
         "name": "Laiba Amjad",
         "email": "amjadlaiba61@gmail.com",
-        "program": "File",
-        "grade": 36.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -597,14 +589,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362806,
+    "11362806": {
         "name": "Anisa Ibrahim",
         "email": "anisaibrahim@gmail.com",
-        "program": "File",
-        "grade": 96.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -653,14 +644,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362807,
+    "11362807": {
         "name": "Bassem Warsi",
         "email": "bassem.warsi@gmail.com",
-        "program": "File",
-        "grade": 92.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -724,14 +714,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362808,
+    "11362808": {
         "name": "Besan Zaro",
         "email": "besanzaro@yahoo.com",
-        "program": "File",
-        "grade": 96.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -750,14 +739,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362809,
+    "11362809": {
         "name": "Betul Kara",
         "email": "betulk91@gmail.com",
-        "program": "File",
-        "grade": 56.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -776,14 +764,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362810,
+    "11362810": {
         "name": "Bedaura Haseen",
         "email": "bhaseen36@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -832,14 +819,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362811,
+    "11362811": {
         "name": "Amirjan Amiri",
         "email": "bulbulamiri@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -858,14 +844,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362812,
+    "11362812": {
         "name": "Mamoona Chaudhry",
         "email": "Chaudhrym1235@gmail.com",
-        "program": "File",
-        "grade": 70.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -899,14 +884,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362813,
+    "11362813": {
         "name": "Desiree Freeman",
         "email": "desiree.freeman@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -925,14 +909,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362814,
+    "11362814": {
         "name": "Duha Fayyaz",
         "email": "duhafayyaz4@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -966,14 +949,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362815,
+    "11362815": {
         "name": "Fatema Elmasry",
         "email": "fatemaelmasry@gmail.com",
-        "program": "File",
-        "grade": 80.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1007,14 +989,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362816,
+    "11362816": {
         "name": "Ihsan Aksel",
         "email": "ihsan.aksel@hotmail.com",
-        "program": "File",
-        "grade": 86.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1033,14 +1014,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362817,
+    "11362817": {
         "name": "Iram Ahmad",
         "email": "Iram427@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1074,14 +1054,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362818,
+    "11362818": {
         "name": "Javheria Ibrahim",
         "email": "jjjaveria6@gmail.com",
-        "program": "File",
-        "grade": 80.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1100,14 +1079,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362819,
+    "11362819": {
         "name": "Kouthar Waled",
         "email": "knwaled.acc@gmail.com",
-        "program": "File",
-        "grade": 84.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1171,14 +1149,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362820,
+    "11362820": {
         "name": "Kulsuma Fahima",
         "email": "kulsuma.f@live.com",
-        "program": "File",
-        "grade": 92.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1272,14 +1249,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362821,
+    "11362821": {
         "name": "Mahmuda Ali",
         "email": "mahmuda96@live.com",
-        "program": "File",
-        "grade": 76.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1298,14 +1274,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362822,
+    "11362822": {
         "name": "Syed Qutub",
         "email": "mala52@hotmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1339,14 +1314,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362823,
+    "11362823": {
         "name": "Malaika Abbas",
         "email": "Malaikaabbas653@gmail.com",
-        "program": "File",
-        "grade": 84.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1365,14 +1339,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362824,
+    "11362824": {
         "name": "Leslie Marshall",
         "email": "Marshallleslie7@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1391,14 +1364,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362825,
+    "11362825": {
         "name": "Maryum Muzaffer",
         "email": "maryummuzaffer@outlook.com",
-        "program": "File",
-        "grade": 80.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1417,14 +1389,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362826,
+    "11362826": {
         "name": "Maya Shaaban",
         "email": "mshaab1998@gmail.com",
-        "program": "Direct",
-        "grade": 66.67,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-12-12",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Arabic 101",
@@ -1563,14 +1534,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362827,
+    "11362827": {
         "name": "Muniro Dini",
         "email": "munira@mascolumbus.org",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1589,14 +1559,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362830,
+    "11362830": {
         "name": "Mohammad Zahra",
         "email": "mzahra243@gmail.com",
-        "program": "File",
-        "grade": 66.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1630,14 +1599,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362831,
+    "11362831": {
         "name": "Navira Alifa",
         "email": "navira.alifa@gmail.com",
-        "program": "File",
-        "grade": 94.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1716,14 +1684,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362832,
+    "11362832": {
         "name": "Aasiyah Rajper",
         "email": "nawshaba24@gmail.com",
-        "program": "File",
-        "grade": 88.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1757,14 +1724,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362833,
+    "11362833": {
         "name": "Nebat Ali",
         "email": "nebatali97@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1783,14 +1749,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362834,
+    "11362834": {
         "name": "Nicolette Ponce",
         "email": "nicoletteponce@gmail.com",
-        "program": "File",
-        "grade": 68.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1809,14 +1774,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362835,
+    "11362835": {
         "name": "Norina Zeb",
         "email": "norina.zeb@gmail.com",
-        "program": "File",
-        "grade": 0.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1835,14 +1799,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362836,
+    "11362836": {
         "name": "Phyllis Mitchell",
         "email": "Phanifah1957@gmail.com",
-        "program": "File",
-        "grade": 96.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1876,14 +1839,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362837,
+    "11362837": {
         "name": "Richard McKinney",
         "email": "ramckinney1081@yahoo.com",
-        "program": "File",
-        "grade": 80.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1907,7 +1869,7 @@
                 "enroll_type": "Catalog",
                 "percent": 0.0,
                 "grade": "F",
-                "progress": 45.24,
+                "progress": 44.98,
                 "started_at": "2023-08-27T14:44:27.000Z",
                 "completed_at": null,
                 "unenrolled": false,
@@ -1932,14 +1894,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362838,
+    "11362838": {
         "name": "Zayna Ghandhi",
         "email": "rosess_83@yahoo.com",
-        "program": "File",
-        "grade": 68.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -1958,14 +1919,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362839,
+    "11362839": {
         "name": "Saira Ali",
         "email": "sairachoudhri@gmail.com",
-        "program": "File",
-        "grade": 60.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2074,14 +2034,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362840,
+    "11362840": {
         "name": "Sameer Shaikh",
         "email": "sameer.shaikh@medportal.ca",
-        "program": "File",
-        "grade": 62.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2100,14 +2059,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362841,
+    "11362841": {
         "name": "Saniya Syeda",
         "email": "saniyazsyeda@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2141,14 +2099,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362842,
+    "11362842": {
         "name": "Sarah Elmahdy",
         "email": "sarahelmahdy98@gmail.com",
-        "program": "File",
-        "grade": 40.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2182,14 +2139,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362843,
+    "11362843": {
         "name": "Sarwat Ismail",
         "email": "Sarwat_ismail@hotmail.com",
-        "program": "File",
-        "grade": 88.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2208,14 +2164,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362844,
+    "11362844": {
         "name": "Sulayman Jobarteh",
         "email": "saulej@hotmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2249,14 +2204,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362845,
+    "11362845": {
         "name": "Shahid Saya",
         "email": "saya.shahid@gmail.com",
-        "program": "File",
-        "grade": 82.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2290,14 +2244,13 @@
             }
         ]
     },
-    {
-        "neo_id": 11362846,
+    "11362846": {
         "name": "shah sajjad",
         "email": "shah.sajjad1975@gmail.com",
-        "program": "File",
-        "grade": 100.0,
-        "start_date": "2023-05-11T11:30:43.000Z",
-        "expected_graduation": "2023-07-23",
+        "program": "Online",
+        "grade": "Year 1",
+        "start_date": "May 2023",
+        "expected_graduation": "May 2027",
         "periods": [
             {
                 "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
@@ -2391,4 +2344,4 @@
             }
         ]
     }
-]
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Sameer Ahmed",
+    "program": "Online",
+    "grade": "Year 4",
+    "credits_earned": 20,
+    "gpa": 3.8,
+    "start_date": "January 2023",
+    "expected_graduation": "August 2025",
+    "periods": [
+        {
+            "name": "Year 1",
+            "courses": [
+                {
+                    "name": "Tafseer of Juzz Amma",
+                    "grade": "A+",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Arabic Grammar",
+                    "grade": "A",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Prophetic Traditions",
+                    "grade": "A-",
+                    "credits": 3.0
+                }
+            ]
+        }, 
+        {
+            "name": "Year 2",
+            "courses": [
+                {
+                    "name": "Islamic Science of Hadith",
+                    "grade": "A+",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Prophetic Traditions Pt. 2",
+                    "grade": "A",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Stories of the Prophets",
+                    "grade": "A-",
+                    "credits": 3.0
+                }
+            ]
+        },
+        {
+            "name": "Year 3",
+            "courses": [
+                {
+                    "name": "Islamic Science of Hadith",
+                    "grade": "A+",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Prophetic Traditions Pt. 2",
+                    "grade": "A",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Stories of the Prophets",
+                    "grade": "A-",
+                    "credits": 3.0
+                }
+            ]
+        },
+        {
+            "name": "Year 4",
+            "courses": [
+                {
+                    "name": "Islamic Science of Hadith",
+                    "grade": "A+",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Prophetic Traditions Pt. 2",
+                    "grade": "A",
+                    "credits": 3.0
+                },
+                {
+                    "name": "Stories of the Prophets",
+                    "grade": "A-",
+                    "credits": 3.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5394 @@
+{
+    "data": [
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-07-23",
+            "id": 4057814,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Divine Speech: Beginner's Guide to Exploring the Quran",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-05-21",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 297,
+            "lessons": {
+                "$ref": "/api/v2/classes/4057814/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4057814/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4057814/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4057814/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4057814/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4057814/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4057814/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4057814/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4057814/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4057814/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4057814/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4057814/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4057814/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4057814/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-07-19",
+            "id": 4057831,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Inevitable: Tafsir of Surah al-Waqi'ah and al-Rahman",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-05-17",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 294,
+            "lessons": {
+                "$ref": "/api/v2/classes/4057831/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4057831/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4057831/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4057831/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4057831/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4057831/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4057831/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4057831/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4057831/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4057831/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4057831/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4057831/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4057831/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4057831/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": true,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-07-17",
+            "id": 4057836,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "The Final Hour: Signs of Day of Judgment",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-05-15",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 249,
+            "lessons": {
+                "$ref": "/api/v2/classes/4057836/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4057836/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4057836/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4057836/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4057836/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4057836/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4057836/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4057836/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4057836/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4057836/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4057836/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4057836/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4057836/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4057836/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-07-20",
+            "id": 4057837,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Praise: Virtues of the Companions From Sahih Muslim",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-05-18",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 237,
+            "lessons": {
+                "$ref": "/api/v2/classes/4057837/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4057837/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4057837/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4057837/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4057837/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4057837/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4057837/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4057837/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4057837/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4057837/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4057837/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4057837/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4057837/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4057837/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-17",
+            "id": 4110785,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Online: Fall Semester",
+            "path": true,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 1,
+            "lessons": {
+                "$ref": "/api/v2/classes/4110785/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4110785/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4110785/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4110785/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4110785/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4110785/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4110785/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4110785/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4110785/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4110785/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4110785/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4110785/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4110785/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4110785/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-13",
+            "id": 4110797,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 101: The Beginner's Guide to Learning Arabic",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-13",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 323,
+            "lessons": {
+                "$ref": "/api/v2/classes/4110797/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4110797/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4110797/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4110797/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4110797/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4110797/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4110797/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4110797/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4110797/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4110797/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4110797/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4110797/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4110797/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4110797/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-13",
+            "id": 4111659,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 201: The Intermediate Guide to Learning Arabic (Nahw)",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-13",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 90,
+            "lessons": {
+                "$ref": "/api/v2/classes/4111659/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4111659/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4111659/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4111659/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4111659/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4111659/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4111659/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4111659/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4111659/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4111659/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4111659/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4111659/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4111659/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4111659/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4111660,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 301: The Advanced Guide to Learning Arabic",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 24,
+            "lessons": {
+                "$ref": "/api/v2/classes/4111660/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4111660/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4111660/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4111660/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4111660/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4111660/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4111660/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4111660/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4111660/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4111660/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4111660/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4111660/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4111660/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4111660/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-17",
+            "id": 4111661,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Confidential: Tafsir of Surah al-Nur",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-17",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 242,
+            "lessons": {
+                "$ref": "/api/v2/classes/4111661/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4111661/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4111661/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4111661/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4111661/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4111661/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4111661/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4111661/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4111661/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4111661/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4111661/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4111661/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4111661/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4111661/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-14",
+            "id": 4111662,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Sacred Foundations II: Nawawi's 40 Hadith Explained",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-14",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 230,
+            "lessons": {
+                "$ref": "/api/v2/classes/4111662/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4111662/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4111662/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4111662/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4111662/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4111662/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4111662/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4111662/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4111662/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4111662/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4111662/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4111662/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4111662/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4111662/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": true,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-11",
+            "id": 4111663,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Blissful Departure: Fiqh of Death and Inheritance",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 208,
+            "lessons": {
+                "$ref": "/api/v2/classes/4111663/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4111663/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4111663/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4111663/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4111663/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4111663/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4111663/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4111663/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4111663/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4111663/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4111663/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4111663/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4111663/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4111663/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112858,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Quran Exegesis (Year 1)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-05",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 175,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112858/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112858/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112858/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112858/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112858/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112858/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112858/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112858/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112858/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112858/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112858/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112858/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112858/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112858/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112859,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Traditions (Year 1)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 175,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112859/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112859/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112859/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112859/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112859/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112859/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112859/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112859/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112859/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112859/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112859/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112859/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112859/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112859/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112860,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Biography",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 177,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112860/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112860/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112860/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112860/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112860/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112860/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112860/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112860/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112860/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112860/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112860/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112860/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112860/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112860/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112861,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 101",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 180,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112861/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112861/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112861/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112861/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112861/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112861/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112861/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112861/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112861/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112861/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112861/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112861/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112861/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112861/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112872,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Islamic Jurisprudence",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 174,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112872/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112872/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112872/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112872/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112872/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112872/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112872/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112872/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112872/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112872/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112872/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112872/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112872/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112872/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4112873,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Etiquette of a Seeker",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 176,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112873/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112873/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112873/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112873/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112873/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112873/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112873/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112873/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112873/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112873/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112873/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112873/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112873/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112873/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4112928,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 (One Semester)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-05",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4112928/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4112928/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4112928/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4112928/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4112928/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4112928/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4112928/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4112928/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4112928/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4112928/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4112928/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4112928/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4112928/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4112928/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": true,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4113078,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 (Full Year)",
+            "path": true,
+            "price": 530.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 111,
+            "lessons": {
+                "$ref": "/api/v2/classes/4113078/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4113078/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4113078/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4113078/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4113078/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4113078/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4113078/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4113078/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4113078/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4113078/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4113078/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4113078/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4113078/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4113078/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": true,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4124578,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 (Full Year)",
+            "path": true,
+            "price": 400.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 44,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124578/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124578/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124578/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124578/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124578/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124578/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124578/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124578/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124578/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124578/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124578/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124578/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124578/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124578/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124586,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Quran/Hadith Studies",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 77,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124586/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124586/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124586/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124586/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124586/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124586/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124586/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124586/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124586/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124586/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124586/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124586/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124586/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124586/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124587,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Stories",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 78,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124587/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124587/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124587/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124587/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124587/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124587/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124587/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124587/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124587/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124587/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124587/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124587/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124587/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124587/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124936,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Usul al-Fiqh",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 77,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124936/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124936/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124936/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124936/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124936/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124936/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124936/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124936/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124936/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124936/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124936/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124936/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124936/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124936/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124937,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 201",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 78,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124937/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124937/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124937/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124937/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124937/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124937/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124937/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124937/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124937/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124937/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124937/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124937/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124937/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124937/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124938,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Quran Exegesis (Year 2)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 77,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124938/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124938/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124938/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124938/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124938/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124938/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124938/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124938/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124938/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124938/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124938/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124938/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124938/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124938/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4124939,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Traditions (Year 2)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 77,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124939/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124939/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124939/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124939/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124939/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124939/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124939/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124939/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124939/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124939/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124939/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124939/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124939/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124939/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4124940,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 (One Semester)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-05",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4124940/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4124940/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4124940/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4124940/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4124940/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4124940/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4124940/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4124940/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4124940/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4124940/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4124940/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4124940/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4124940/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4124940/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4126453,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 (Fall Semester)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 82,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126453/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126453/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126453/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126453/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126453/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126453/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126453/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126453/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126453/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126453/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126453/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126453/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126453/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126453/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4126454,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 (Fall Semester)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 37,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126454/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126454/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126454/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126454/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126454/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126454/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126454/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126454/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126454/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126454/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126454/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126454/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126454/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126454/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4126455,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 3 (Full Year)",
+            "path": true,
+            "price": 400.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 31,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126455/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126455/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126455/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126455/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126455/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126455/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126455/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126455/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126455/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126455/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126455/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126455/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126455/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126455/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4126457,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Description (Shama'il)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 38,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126457/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126457/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126457/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126457/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126457/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126457/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126457/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126457/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126457/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126457/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126457/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126457/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126457/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126457/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4126458,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Riyad Al-Salihin",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 37,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126458/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126458/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126458/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126458/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126458/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126458/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126458/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126458/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126458/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126458/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126458/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126458/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126458/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126458/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4126459,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Fiqh of Finance and Marriage",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 37,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126459/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126459/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126459/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126459/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126459/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126459/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126459/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126459/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126459/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126459/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126459/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126459/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126459/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126459/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4126460,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Quran Exegesis (Year 3)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 38,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126460/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126460/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126460/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126460/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126460/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126460/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126460/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126460/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126460/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126460/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126460/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126460/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126460/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126460/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4126461,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Islamic Theology",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 37,
+            "lessons": {
+                "$ref": "/api/v2/classes/4126461/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4126461/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4126461/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4126461/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4126461/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4126461/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4126461/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4126461/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4126461/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4126461/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4126461/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4126461/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4126461/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4126461/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-12",
+            "id": 4133029,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 301",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-12",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 37,
+            "lessons": {
+                "$ref": "/api/v2/classes/4133029/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4133029/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4133029/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4133029/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4133029/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4133029/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4133029/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4133029/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4133029/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4133029/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4133029/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4133029/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4133029/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4133029/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-05",
+            "id": 4133529,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 3 (Fall Semester)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 13,
+            "lessons": {
+                "$ref": "/api/v2/classes/4133529/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4133529/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4133529/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4133529/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4133529/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4133529/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4133529/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4133529/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4133529/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4133529/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4133529/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4133529/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4133529/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4133529/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2023-12-06",
+            "id": 4149774,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: Canton (One Semester)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-13",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 23,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149774/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149774/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149774/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149774/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149774/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149774/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149774/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149774/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149774/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149774/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149774/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149774/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149774/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149774/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149778,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: UMMA (One Semester)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 15,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149778/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149778/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149778/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149778/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149778/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149778/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149778/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149778/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149778/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149778/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149778/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149778/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149778/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149778/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149782,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 101: Lite UMMA",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149782/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149782/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149782/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149782/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149782/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149782/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149782/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149782/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149782/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149782/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149782/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149782/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149782/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149782/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149785,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Introduction to Hadith Studies (Lite UMMA)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 3,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149785/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149785/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149785/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149785/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149785/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149785/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149785/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149785/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149785/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149785/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149785/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149785/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149785/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149785/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149799,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Fiqh of Tahara (Lite Canton)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 8,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149799/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149799/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149799/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149799/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149799/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149799/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149799/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149799/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149799/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149799/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149799/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149799/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149799/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149799/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149801,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 101: Lite Canton",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 7,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149801/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149801/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149801/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149801/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149801/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149801/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149801/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149801/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149801/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149801/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149801/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149801/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149801/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149801/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4149802,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Quran Exegesis of Juz Amma (Lite Canton)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 7,
+            "lessons": {
+                "$ref": "/api/v2/classes/4149802/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4149802/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4149802/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4149802/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4149802/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4149802/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4149802/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4149802/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4149802/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4149802/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4149802/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4149802/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4149802/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4149802/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-03-27",
+            "id": 4179075,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: Canton (Full Year)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-13",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 12,
+            "lessons": {
+                "$ref": "/api/v2/classes/4179075/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4179075/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4179075/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4179075/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4179075/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4179075/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4179075/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4179075/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4179075/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4179075/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4179075/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4179075/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4179075/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4179075/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-03-25",
+            "id": 4179079,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: UMMA (Full Year)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 5,
+            "lessons": {
+                "$ref": "/api/v2/classes/4179079/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4179079/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4179079/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4179079/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4179079/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4179079/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4179079/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4179079/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4179079/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4179079/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4179079/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4179079/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4179079/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4179079/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-16",
+            "id": 4208532,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Ghazali's 40 Essentials II: An Adapted Summary of the Ihya",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 43,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208532/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208532/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208532/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208532/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208532/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208532/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208532/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208532/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208532/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208532/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208532/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208532/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208532/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208532/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-13",
+            "id": 4208600,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Money Matters: Fiqh of Finance",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-08",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 59,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208600/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208600/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208600/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208600/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208600/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208600/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208600/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208600/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208600/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208600/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208600/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208600/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208600/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208600/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-19",
+            "id": 4208608,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Tales of Guidance: Tafsir of Surah Qasas",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-14",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 50,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208608/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208608/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208608/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208608/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208608/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208608/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208608/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208608/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208608/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208608/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208608/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208608/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208608/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208608/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-15",
+            "id": 4208611,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 101: The Beginner's Guide to Learning Arabic",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "Winter 2024",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 66,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208611/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208611/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208611/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208611/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208611/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208611/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208611/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208611/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208611/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208611/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208611/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208611/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208611/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208611/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 3.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-15",
+            "id": 4208620,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 201: The Intermediate Guide to Learning Arabic (Sarf)",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 40,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208620/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208620/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208620/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208620/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208620/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208620/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208620/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208620/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208620/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208620/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208620/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208620/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208620/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208620/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4208627,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Arabic 301: The Advanced Guide to Learning Arabic (Winter 2024)",
+            "path": false,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "Winter 2024",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-09",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4208627/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4208627/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4208627/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4208627/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4208627/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4208627/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4208627/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4208627/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4208627/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4208627/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4208627/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4208627/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4208627/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4208627/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2024-03-28",
+            "id": 4267778,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: Hamtramck (Full Year)",
+            "path": true,
+            "price": 150.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-21",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4267778/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4267778/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4267778/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4267778/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4267778/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4267778/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4267778/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4267778/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4267778/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4267778/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4267778/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4267778/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4267778/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4267778/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-07",
+            "id": 4267779,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Introduction to Hadith Studies",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "Hamtramck",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-21",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4267779/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4267779/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4267779/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4267779/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4267779/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4267779/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4267779/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4267779/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4267779/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4267779/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4267779/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4267779/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4267779/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4267779/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-07",
+            "id": 4267780,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Description (Shama'il)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "Hamtramck",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-21",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4267780/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4267780/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4267780/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4267780/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4267780/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4267780/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4267780/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4267780/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4267780/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4267780/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4267780/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4267780/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4267780/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4267780/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-07",
+            "id": 4267781,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Lite Program: Hamtramck (One Semester)",
+            "path": true,
+            "price": 100.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-21",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4267781/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4267781/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4267781/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4267781/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4267781/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4267781/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4267781/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4267781/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4267781/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4267781/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4267781/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4267781/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4267781/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4267781/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": true,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": false,
+            "duration_text": null,
+            "finish_at": "2023-12-04",
+            "id": 4267782,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Prophetic Description (Shama'il)",
+            "path": false,
+            "price": null,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "UMMA",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2023-09-11",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": false,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4267782/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4267782/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4267782/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4267782/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4267782/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4267782/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4267782/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4267782/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4267782/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4267782/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4267782/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4267782/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4267782/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4267782/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-03-14",
+            "id": 4352462,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 (Winter Semester 2024)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-09",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 6,
+            "lessons": {
+                "$ref": "/api/v2/classes/4352462/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4352462/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4352462/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4352462/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4352462/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4352462/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4352462/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4352462/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4352462/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4352462/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4352462/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4352462/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4352462/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4352462/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4352815,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 (Winter Semester 2024)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-09",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 13,
+            "lessons": {
+                "$ref": "/api/v2/classes/4352815/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4352815/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4352815/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4352815/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4352815/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4352815/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4352815/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4352815/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4352815/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4352815/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4352815/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4352815/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4352815/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4352815/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-05-14",
+            "id": 4352816,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 3 (Winter Semester 2024)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-01-09",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 1,
+            "lessons": {
+                "$ref": "/api/v2/classes/4352816/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4352816/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4352816/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4352816/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4352816/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4352816/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4352816/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4352816/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4352816/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4352816/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4352816/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4352816/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4352816/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4352816/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-08-11",
+            "id": 4430641,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Hardened Hearts: Heart Softeners from Imam al-Tabrizi’s Mishkat",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-06-03",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4430641/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4430641/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4430641/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4430641/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4430641/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4430641/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4430641/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4430641/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4430641/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4430641/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4430641/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4430641/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4430641/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4430641/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-08-11",
+            "id": 4430643,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Embracing Humility: Tafsir of Surah al-Sajdah",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-06-03",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4430643/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4430643/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4430643/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4430643/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4430643/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4430643/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4430643/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4430643/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4430643/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4430643/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4430643/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4430643/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4430643/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4430643/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-08-11",
+            "id": 4430644,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Model Successors: Lives of the Four Caliphs",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-06-03",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4430644/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4430644/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4430644/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4430644/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4430644/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4430644/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4430644/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4430644/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4430644/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4430644/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4430644/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4430644/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4430644/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4430644/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": 1.0,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-08-11",
+            "id": 4430645,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Spiritual Enlightenment: Imam Ghazali's Ayyuhal Walad",
+            "path": false,
+            "price": 50.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-06-03",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 4,
+            "lessons": {
+                "$ref": "/api/v2/classes/4430645/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4430645/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4430645/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4430645/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4430645/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4430645/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4430645/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4430645/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4430645/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4430645/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4430645/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4430645/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4430645/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4430645/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2025-05-13",
+            "id": 4443979,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 24/25 (Full Year)",
+            "path": true,
+            "price": 530.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 1,
+            "lessons": {
+                "$ref": "/api/v2/classes/4443979/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4443979/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4443979/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4443979/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4443979/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4443979/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4443979/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4443979/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4443979/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4443979/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4443979/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4443979/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4443979/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4443979/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-12-17",
+            "id": 4443980,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 1 24/25 (Fall)",
+            "path": true,
+            "price": 350.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4443980/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4443980/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4443980/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4443980/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4443980/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4443980/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4443980/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4443980/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4443980/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4443980/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4443980/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4443980/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4443980/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4443980/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2025-05-13",
+            "id": 4454667,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 24/25 (Full Year)",
+            "path": true,
+            "price": 400.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4454667/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4454667/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4454667/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4454667/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4454667/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4454667/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4454667/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4454667/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4454667/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4454667/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4454667/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4454667/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4454667/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4454667/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-12-17",
+            "id": 4454668,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 2 24/25 (Fall)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4454668/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4454668/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4454668/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4454668/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4454668/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4454668/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4454668/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4454668/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4454668/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4454668/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4454668/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4454668/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4454668/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4454668/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2025-05-13",
+            "id": 4457816,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 3 24/25 (Full Year)",
+            "path": true,
+            "price": 400.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": null,
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4457816/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4457816/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4457816/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4457816/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4457816/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4457816/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4457816/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4457816/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4457816/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4457816/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4457816/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4457816/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4457816/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4457816/order_items"
+            }
+        },
+        {
+            "access_by_deactivated_students": true,
+            "allow_final_override": false,
+            "allow_unenrollment": false,
+            "archived": false,
+            "catalog_child_classes": false,
+            "course_code": null,
+            "credits": null,
+            "description": "",
+            "display_in_catalog": true,
+            "duration_text": null,
+            "finish_at": "2024-12-17",
+            "id": 4457818,
+            "lessons_in_order": false,
+            "location": null,
+            "max_seats": null,
+            "max_students": null,
+            "name": "Miftaah Associate Program: Year 3 24/25 (Fall Semester)",
+            "path": true,
+            "price": 200.0,
+            "required_for_compliance": false,
+            "round_percentages": true,
+            "round_points": true,
+            "section_code": "Fall 2024",
+            "sections_in_order": false,
+            "show_links": false,
+            "sis_id": null,
+            "start_at": "2024-09-10",
+            "style": "Instructor",
+            "time_zone": "Eastern Time (US & Canada)",
+            "use_periods": false,
+            "access_code": null,
+            "enrollment_open": true,
+            "used_seats": 0,
+            "lessons": {
+                "$ref": "/api/v2/classes/4457818/lessons"
+            },
+            "teacher": {
+                "$ref": "/api/v2/classes/4457818/teacher"
+            },
+            "teachers": {
+                "$ref": "/api/v2/classes/4457818/teachers"
+            },
+            "coteachers": {
+                "$ref": "/api/v2/classes/4457818/coteachers"
+            },
+            "groups": {
+                "$ref": "/api/v2/classes/4457818/groups"
+            },
+            "organization": {
+                "$ref": "/api/v2/classes/4457818/organization"
+            },
+            "current_lesson": {
+                "$ref": "/api/v2/classes/4457818/current_lesson"
+            },
+            "assignments": {
+                "$ref": "/api/v2/classes/4457818/assignments"
+            },
+            "enrollments": {
+                "$ref": "/api/v2/classes/4457818/enrollments"
+            },
+            "students": {
+                "$ref": "/api/v2/classes/4457818/students"
+            },
+            "visits": {
+                "$ref": "/api/v2/classes/4457818/visits"
+            },
+            "bundles": {
+                "$ref": "/api/v2/classes/4457818/bundles"
+            },
+            "subscriptions": {
+                "$ref": "/api/v2/classes/4457818/subscriptions"
+            },
+            "order_items": {
+                "$ref": "/api/v2/classes/4457818/order_items"
+            }
+        }
+    ]
+}
